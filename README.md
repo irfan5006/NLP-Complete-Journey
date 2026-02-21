@@ -16,7 +16,7 @@ The goal of this repository is:
 
 👨‍💻 About Me
 
-Hi, I am Muhammad Irfan.
+# Hi, I am Muhammad Irfan.
 I am an MS Data Science student passionate about Artificial Intelligence and Machine Learning.
 
 This repository reflects my daily learning and practical implementation of NLP concepts.
@@ -80,7 +80,7 @@ HuggingFace Transformers
 
 Fine-tuning
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 Python
 
@@ -94,16 +94,7 @@ PyTorch / TensorFlow
 
 Transformers (HuggingFace)
 
-📂 Repository Structure
-NLP-Complete-Journey/
-│
-├── 01_Text_Preprocessing/
-├── 02_Feature_Engineering/
-├── 03_Machine_Learning/
-├── 04_Deep_Learning/
-├── 05_Transformers/
-└── README.md
-⚙ How To Use This Repository
+# ⚙ How To Use This Repository
 
 Clone this repository
 
@@ -135,10 +126,10 @@ Add research-level implementations
 
 Improve documentation
 
-🤝 Contributions
+# 🤝 Contributions
 
 Suggestions and improvements are welcome.
 
-⭐ If You Like This Repository
+# ⭐ If You Like This Repository
 
 Please consider giving it a star ⭐
